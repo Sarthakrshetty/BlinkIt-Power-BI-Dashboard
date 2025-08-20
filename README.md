@@ -6,7 +6,6 @@ It provides insights into customer behavior, product performance, regional sales
 The dashboard enables data-driven decision-making for business stakeholders.
 
 🎯 Objectives
-
 Build an interactive Power BI dashboard for BlinkIt’s sales data.
 
 Identify top-performing products, regions, and categories.
@@ -89,6 +88,7 @@ Profit Trends:
 Highest profit: March 2025 (South Zone)
 
 Lowest profit: July 2024 (due to high discounts + fewer orders)
+
 
 ✅ Conclusion
 
