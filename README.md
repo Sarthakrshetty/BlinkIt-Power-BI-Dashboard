@@ -102,5 +102,5 @@ Future Scope
 * Dataset Source: Kaggle
 * Tools: Excel, SQL Server
 
-LinkedIn Profile]www.linkedin.com/in/sarthak-r-shetty22 
+LinkedIn Profile:www.linkedin.com/in/sarthak-r-shetty22 
 
